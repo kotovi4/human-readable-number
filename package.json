@@ -27,6 +27,7 @@
     "semver": "^6.3.0"
   },
   "devDependencies": {
+    "node": "^12.1.0",
     "number-to-words": "^1.2.4"
   }
 }
